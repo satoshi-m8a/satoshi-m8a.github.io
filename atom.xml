@@ -4,7 +4,7 @@
   <title><![CDATA[My First Blog]]></title>
   <link href="http://satoshi-m8a.github.io/atom.xml" rel="self"/>
   <link href="http://satoshi-m8a.github.io/"/>
-  <updated>2014-12-28T09:38:32+09:00</updated>
+  <updated>2014-12-30T14:16:47+09:00</updated>
   <id>http://satoshi-m8a.github.io/</id>
   <author>
     <name><![CDATA[satoshi-m8a]]></name>
@@ -12,5 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[portfolio]]></title>
+    <link href="http://satoshi-m8a.github.io/blog/2014/12/28/portfolio/"/>
+    <updated>2014-12-28T16:36:09+09:00</updated>
+    <id>http://satoshi-m8a.github.io/blog/2014/12/28/portfolio</id>
+    <content type="html"><![CDATA[<h1>Portfolio</h1>
+
+<ul>
+<li>JavaScript</li>
+<li>Scala</li>
+<li>Java</li>
+<li>Haskell</li>
+<li>PHP</li>
+<li>ActionScript3</li>
+</ul>
+
+
+<h2>About Me</h2>
+]]></content>
+  </entry>
   
 </feed>
